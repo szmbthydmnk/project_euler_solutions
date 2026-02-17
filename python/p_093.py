@@ -2,7 +2,7 @@
 # Solution by Dominik Szombathy 
 # Date - 2026.02.17
 
-# Solution: ###
+# Solution: 1258
 
 from itertools import combinations, permutations, product
 from fractions import Fraction
