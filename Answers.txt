@@ -4,3 +4,4 @@ Problem 093: 1,258
 Problem 094: 518,408,346
 Problem 098: 18,769
 Problem 100: 756,872,327,473
+Problem 112: 1,587,000
