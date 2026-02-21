@@ -3,7 +3,7 @@
 # Date - 2026.02.21
 # Difficulty: 2
 
-# Solution: ###
+# Solution: 1587000
 
 def is_bouncy(number: int) -> bool:
     num_str = str(number)
@@ -17,7 +17,6 @@ def is_bouncy(number: int) -> bool:
         elif int(n) < int(base):
             decreasing += 1
             base = n
-        
         
         if increasing >= 1 and decreasing >= 1:
             return True
